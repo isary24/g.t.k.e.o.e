@@ -1,5 +1,5 @@
 body {
-    background-image: radial-gradient(to bottom,#ffffff, #ffb3d9);
+    background: radial-gradient(to bottom,#ffffff, #ffb3d9);
 }
 
 .wrapper {
