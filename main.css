@@ -1,5 +1,8 @@
 body {
-    background-color: linear-gradient(to bottom, #ffb3d9, #ff66a3); }
+    background-color: linear-gradient(to bottom, #ffb3d9, #ff66a3);
+    height: 100vh; /* Full viewport height */
+    display: flex;
+}
 
 .wrapper {
     width: 85%;
