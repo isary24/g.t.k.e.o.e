@@ -6,6 +6,10 @@ body {
     width: 85%;
 }
 
+.glow-effect:hover {
+    box-shadow: 0 0 20px rgba(255, 105, 180, 0.8), /* Pink glow */
+                0 0 30px rgba(255, 105, 180, 0.6); /* More pronounced glow */ }
+
 img {
     border: 3px solid #DE5D83;
     border-radius: 10px;
