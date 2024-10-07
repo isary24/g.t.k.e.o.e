@@ -1,6 +1,5 @@
 body {
-    background-color: #FADADD;
-}
+    background-color: linear-gradient(to bottom, #ffb3d9, #ff66a3); }
 
 .wrapper {
     width: 85%;
