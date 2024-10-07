@@ -1,6 +1,6 @@
 body {
     background: linear-gradient(to bottom, #ffb3d9, #ff66a3);
-    height 100vh;
+    height: 100vh;
     display: flex;
 }
 
